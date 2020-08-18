@@ -1,0 +1,1044 @@
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-ExtraLight.woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-Light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-Regular.woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-Medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-SemiBold.woff2'); 
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-Bold.woff2'); 
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-ExtraBold.woff2'); 
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-UltraBold.woff2'); 
+    font-weight: 850;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-Black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+	font-display: swap ;
+    src: url('fonts/Anjoman/Anjoman-Heavy.woff2');
+    font-weight: 950;
+    font-style: normal;
+}
+@font-face {
+    font-family: Artin;
+	font-display: swap ;
+    src: url('fonts/Artin/Artin.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Aviny;
+	font-display: swap ;
+    src: url('fonts/Aviny/Aviny.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Daal;
+	font-display: swap ;
+    src: url('fonts/Daal/Daal.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Daal;
+	font-display: swap ;
+    src: url('fonts/Daal/Daal-Black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+  font-family: Damavand;
+  font-display:swap ;
+  src: url('fonts/Damavand/Damavand-ExtraBold.woff2');
+  font-weight: Bold;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-thin.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-extralight.woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-demibold.woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-ultrabold.woff2');
+    font-weight: 750;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-extrabold.woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: DanaFN;
+	font-display: swap ;
+    src: url('fonts/DanaFN/dana-fanum-black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-thin.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-extralight.woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-demibold.woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-ultrabold.woff2');
+    font-weight: 750;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-extrabold.woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: Dana;
+	font-display: swap ;
+    src: url('fonts/Dana/dana-black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Emkan;
+	font-display: swap ;
+    src: url('fonts/Emkan/Emkan-Thin.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: Emkan;
+	font-display: swap ;
+    src: url('fonts/Emkan/Emkan-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Emkan;
+	font-display: swap ;
+    src: url('fonts/Emkan/Emkan-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Emkan;
+	font-display: swap ;
+    src: url('fonts/Emkan/Emkan-Black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: EmkanDeco;
+	font-display: swap ;
+    src: url('fonts/EmkanDeco/EmkanDeco-Thinwoff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Estedad;
+	font-display: swap ;
+    src: url('fonts/Estedad/Estedad-Thin.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: Estedad;
+	font-display: swap ;
+    src: url('fonts/Estedad/Estedad-Light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Estedad;
+	font-display: swap ;
+    src: url('fonts/Estedad/Estedad-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Estedad;
+	font-display: swap ;
+    src: url('fonts/Estedad/Estedad-Black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Estedad;
+	font-display: swap ;
+    src: url('fonts/Estedad/Estedad-Medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: EstedadFN;
+	font-display: swap ;
+    src: url('fonts/EstedadFN/Estedad-FD-Thin.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: EstedadFN;
+	font-display: swap ;
+    src: url('fonts/EstedadFN/Estedad-FD-Light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: EstedadFN;
+	font-display: swap ;
+    src: url('fonts/EstedadFN/Estedad-FD-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: EstedadFN;
+	font-display: swap ;
+    src: url('fonts/EstedadFN/Estedad-FD-Black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: EstedadFN;
+	font-display: swap ;
+    src: url('fonts/EstedadFN/Estedad-FD-Medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Farhang;
+	font-display: swap ;
+    src: url('fonts/Farhang/Farhang-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Farhang;
+	font-display: swap ;
+    src: url('fonts/Farhang/Farhang-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: FarhangFN;
+	font-display: swap ;
+    src: url('fonts/FarhangFN/FarhangFaNum-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: FarhangFN;
+	font-display: swap ;
+    src: url('fonts/FarhangFN/FarhangFaNum-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+  font-family: Gandom;
+  font-display:swap ;
+  src: url('fonts/Gandom/Gandom-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+    font-family: Irancell;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 200;
+    src: url('fonts/Irancell/Irancell_ExtraLight.woff2');
+}
+@font-face {
+    font-family: Irancell;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/Irancell/Irancell_Light.woff2');
+}
+@font-face {
+    font-family: Irancell;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/Irancell/Irancell_Regular.woff2');
+}
+@font-face {
+    font-family: Irancell;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 500;
+    src: url('fonts/Irancell/Irancell_Medium.woff2');
+}
+@font-face {
+    font-family: Irancell;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/Irancell/Irancell_Bold.woff2');
+}
+@font-face {
+    font-family: Irancell;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 800;
+    src: url('fonts/Irancell/Irancell_Extrabold.woff2');
+}
+@font-face {
+    font-family: IRANRounded;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/IRANRounded/IRANRounded.woff2');
+}
+@font-face {
+    font-family: IRANSans;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 200;
+    src: url('fonts/IRANSans/IRANSansWeb_UltraLight.woff2');
+}
+@font-face {
+    font-family: IRANSans;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/IRANSans/IRANSansWeb_Light.woff2');
+}@font-face {
+    font-family: IRANSans;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/IRANSans/IRANSansWeb.woff2');
+}
+@font-face {
+	font-family: IRANSans;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 500;
+	src: url('fonts/IRANSans/IRANSansWeb_Medium.woff2');
+}
+@font-face {
+	font-family: IRANSans;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: bold;
+	src: url('fonts/IRANSans/IRANSansWeb_Bold.woff2');
+}
+@font-face {
+	font-family: IRANSans;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 900;
+	src: url('fonts/IRANSans/IRANSansWeb_Black.woff2');
+}
+@font-face {
+	font-family: IRANSansDN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/IRANSansDN/iransansdnweblight.woff2');
+}
+@font-face {
+	font-family: IRANSansDN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/IRANSansDN/iransansdnweb.woff2');
+}
+@font-face {
+	font-family: IRANSansDN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: bold;
+	src: url('fonts/IRANSansDN/iransansdnwebbold.woff2');
+}
+@font-face {
+    font-family: IRANSansFN;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 200;
+    src: url('fonts/IRANSansFN/IRANSansWeb(FaNum)_UltraLight.woff2');
+}
+@font-face {
+    font-family: IRANSansFN;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/IRANSansFN/IRANSansWeb(FaNum)_Light.woff2');
+}
+@font-face {
+    font-family: IRANSansFN;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/IRANSansFN/IRANSansWeb(FaNum).woff2');
+}
+@font-face {
+    font-family: IRANSansFN;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 500;
+    src: url('fonts/IRANSansFN/IRANSansWeb(FaNum)_Medium.woff2');
+}
+@font-face {
+    font-family: IRANSansFN;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/IRANSansFN/IRANSansWeb(FaNum)_Bold.woff2');
+}
+@font-face {
+    font-family: IRANSansFN;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: 900;
+    src: url('fonts/IRANSansFN/IRANSansWeb(FaNum)_Black.woff2');
+}
+@font-face {
+  font-family: IRANSharp;
+  font-display:swap ;
+  src: url('fonts/IRANSharp/iransharp_light_web.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: IRANSharp;
+  font-display:swap ;
+  src: url('fonts/IRANSharp/iransharp_regular_web.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: IRANSharp;
+  font-display:swap ;
+  src: url('fonts/IRANSharp/ransharp_bold_web.woff2');
+  font-weight: Bold;
+}
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 100;
+	src: url('fonts/IRANYekan/iranyekanwebthin.woff2');
+}
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/IRANYekan/iranyekanweblight.woff2');
+}
+
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/IRANYekan/iranyekanwebregular.woff2');
+}
+
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 500;
+	src: url('fonts/IRANYekan/iranyekanwebmedium.woff2');
+}
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: bold;
+	src: url('fonts/IRANYekan/iranyekanwebbold.woff2');
+}
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 800;
+	src: url('fonts/IRANYekan/iranyekanwebextrabold.woff2');
+}
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 900;
+	src: url('fonts/IRANYekan/iranyekanwebblack.woff2');
+}
+@font-face {
+	font-family: IRANYekan;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 950;
+	src: url('fonts/IRANYekan/iranyekanwebextrablack.woff2');
+}
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 100;
+	src: url('fonts/IRANYekanFN/iranyekanwebthinfanum.woff2');
+}
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/IRANYekanFN/iranyekanweblightfanum.woff2');
+}
+
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/IRANYekanFN/iranyekanwebregularfanum.woff2');
+}
+
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 500;
+	src: url('fonts/IRANYekanFN/iranyekanwebmediumfanum.woff2');
+}
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: bold;
+	src: url('fonts/IRANYekanFN/iranyekanwebboldfanum.woff2');
+}
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 800;
+	src: url('fonts/IRANYekanFN/iranyekanwebextraboldfanum.woff2');
+}
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 900;
+	src: url('fonts/IRANYekanFN/iranyekanwebblackfanum.woff2');
+}
+@font-face {
+	font-family: IRANYekanFN;
+	font-display: swap ;
+	font-style: normal;
+	font-weight: 950;
+	src: url('fonts/IRANYekanFN/iranyekanwebextrablackfanum.woff2');
+}
+@font-face {
+  font-family: Kalameh;
+  font-display:swap ;
+  src: url('fonts/Kalameh/KalamehWeb_thin.woff2');
+  font-weight: 100;
+}
+@font-face {
+  font-family: Kalameh;
+  font-display:swap ;
+  src: url('fonts/Kalameh/KalamehWeb_Regular.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Kalameh;
+  font-display:swap ;
+  src: url('fonts/Kalameh/KalamehWeb_Bold.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Kalameh;
+  font-display:swap ;
+  src: url('fonts/Kalameh/KalamehWeb_Black.woff2');
+  font-weight: 900;
+}
+@font-face {
+  font-family: Katibeh;
+  font-display:swap ;
+  src: url('fonts/Katibeh/katibeh.woff2');
+  font-weight: normal;
+}
+@font-face {
+    font-family: Maneli;
+	font-display: swap ;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/Maneli/Maneli.woff2');
+}
+@font-face {
+    font-family: Mikhak;
+	font-display: swap ;
+    src: url('fonts/Mikhak/Mikhak-Thin.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+	font-display: swap ;
+    src: url('fonts/Mikhak/Mikhak-Light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+	font-display: swap ;
+    src: url('fonts/Mikhak/Mikhak-Medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+	font-display: swap ;
+    src: url('fonts/Mikhak/Mikhak-Bold.woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+	font-display: swap ;
+    src: url('fonts/Mikhak/Mikhak-Black.woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+  font-family: Nahid;
+  font-display:swap ;
+  src: url('fonts/Nahid/Nahid-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Noora;
+  font-display:swap ;
+  src: url('fonts/Noora/Noora-Light.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: Noora;
+  font-display:swap ;
+  src: url('fonts/Noora/Noora-Regular.woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: Noora;
+  font-display:swap ;
+  src: url('fonts/Noora/Noora-Bold.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: NooraFN;
+  font-display:swap ;
+  src: url('fonts/NooraFN/Noora-Light-FN.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: NooraFN;
+  font-display:swap ;
+  src: url('fonts/NooraFN/Noora-Regular-FN.woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: Noora;
+  font-display:swap ;
+  src: url('fonts/NooraFN/Noora-Bold-FN.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Parastoo;
+  font-display:swap ;
+  src: url('fonts/Parastoo/Parastoo-FD.woff2');;
+  font-weight: normal;
+}
+@font-face {
+  font-family: Parastoo;
+  font-display:swap ;
+  src: url('fonts/Parastoo/Parastoo-Bold-FD.woff2');
+  font-weight: Bold;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Hairline.woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+  font-family: Sahel;
+  font-display:swap ;
+  src: url('fonts/Sahel/Sahel-Light-FD.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: Sahel;
+  font-display:swap ;
+  src: url('fonts/Sahel/Sahel-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Sahel;
+  font-display:swap ;
+  src: url('fonts/Sahel/Sahel-SemiBold-FD.woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: Sahel;
+  font-display:swap ;
+  src: url('fonts/Sahel/Sahel-Bold-FD.woff2');
+  font-weight: Bold;
+}
+@font-face {
+  font-family: Sahel;
+  font-display:swap ;
+  src: url('fonts/Sahel/Sahel-Black-FD.woff2');
+  font-weight: 900;
+}
+@font-face {
+  font-family: Samim;
+  font-display:swap ;
+  src: url('fonts/Samim/Samim-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Samim;
+  font-display:swap ;
+  src: url('fonts/Samim/Samim-Medium-FD.woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: Samim;
+  font-display:swap ;
+  src: url('fonts/Samim/Samim-Bold-FD.woff2');
+  font-weight: Bold;
+}
+@font-face {
+  font-family: Tanha;
+  font-display:swap ;
+  src: url('fonts/Tanha/Tanha.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: TanhaFN;
+  font-display:swap ;
+  src: url('fonts/TanhaFN/Tanha-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Shabnam;
+  font-display:swap ;
+  src: url('fonts/Shabnam/Shabnam-Thin.woff2');
+  font-weight: 100;
+}
+@font-face {
+  font-family: Shabnam;
+  font-display:swap ;
+  src: url('fonts/Shabnam/Shabnam-Light.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: Shabnam;
+  font-display:swap ;
+  src: url('fonts/Shabnam/Shabnam.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Shabnam;
+  font-display:swap ;
+  src: url('fonts/Shabnam/Shabnam-Medium.woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: Shabnam;
+  font-display:swap ;
+  src: url('fonts/Shabnam/Shabnam-Bold.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: ShabnamFN;
+  font-display:swap ;
+  src: url('fonts/ShabnamFN/Shabnam-Thin-FD.woff2');
+  font-weight: 100;
+}
+@font-face {
+  font-family: ShabnamFN;
+  font-display:swap ;
+  src: url('fonts/ShabnamFN/Shabnam-Light-FD.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: ShabnamFN;
+  font-display:swap ;
+  src: url('fonts/ShabnamFN/Shabnam-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: ShabnamFN;
+  font-display:swap ;
+  src: url('fonts/ShabnamFN/Shabnam-Medium-FD.woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: ShabnamFN;
+  font-display:swap ;
+  src: url('fonts/ShabnamFN/Shabnam-Bold-FD.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Vazir;
+  font-display:swap ;
+  src: url('fonts/Vazir/Vazir-Thin.woff2');
+  font-weight: 100;
+}
+@font-face {
+  font-family: Vazir;
+  font-display:swap ;
+  src: url('fonts/Vazir/Vazir-Light.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: Vazir;
+  font-display:swap ;
+  src: url('fonts/Vazir/Vazir.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: Vazir;
+  font-display:swap ;
+  src: url('fonts/Vazir/Vazir-Medium.woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: Vazir;
+  font-display:swap ;
+  src: url('fonts/Vazir/Vazir-Bold.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Vazir;
+  font-display:swap ;
+  src: url('fonts/Vazir/Vazir-Black.woff2');
+  font-weight: 900;
+}
+@font-face {
+  font-family: VazirFN;
+  font-display:swap ;
+  src: url('fonts/VazirFN/Vazir-Thin-FD.woff2');
+  font-weight: 100;
+}
+@font-face {
+  font-family: VazirFN;
+  font-display:swap ;
+  src: url('fonts/VazirFN/Vazir-Light-FD.woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: VazirFN;
+  font-display:swap ;
+  src: url('fonts/VazirFN/Vazir-FD.woff2');
+  font-weight: normal;
+}
+@font-face {
+  font-family: VazirFN;
+  font-display:swap ;
+  src: url('fonts/VazirFN/Vazir-Medium-FD.woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: VazirFN;
+  font-display:swap ;
+  src: url('fonts/VazirFN/Vazir-Bold-FD.woff2');
+  font-weight: bold;
+}
+@font-face {
+  font-family: VazirFN;
+  font-display:swap ;
+  src: url('fonts/VazirFN/Vazir-Black-FD.woff2');
+  font-weight: 900;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Thin.woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Light.woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Regular.woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Medium.woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Bold.woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Heavy.woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: Yekanbakh;
+	font-display: swap ;
+    src: url('fonts/YekanBakh/YekanBakh-Fat.woff2');
+    font-weight: 800;
+    font-style: normal;
+}
